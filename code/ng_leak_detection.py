@@ -7,7 +7,7 @@
 ```
 MIT License
 
-Copyright (c) 2025 Ryan Kmetz
+Copyright (c) 2026 Ryan Kmetz
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -678,7 +678,7 @@ print(f"✅ Exported {len(leak_locations)} detection(s) to {csv_path}")
 
 ---
 
-**© 2025 Ryan Kmetz** — MIT License  
+**© 2026 Ryan Kmetz** — MIT License  
 Data: NASA EMIT via [NASA Earthdata](https://earthdata.nasa.gov/)  
 References:  
 - Ma et al. (2024) *Environ. Sci. Technol.* 58(27), 12018–12027. DOI: 10.1021/acs.est.4c03345  
